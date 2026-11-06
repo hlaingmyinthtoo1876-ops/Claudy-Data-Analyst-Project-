@@ -29,4 +29,4 @@ File: sales_data.csv
 Only three days of practice data. A real shop needs three to six months.
 
 ## Link
-Google Sheet: (paste your link here)
+Google Sheet: (https://docs.google.com/spreadsheets/d/e/2PACX-1vTy7akcB2Duc8EC1t_9mAdxELksIeX8RqWDw0yEbJFCZz7D7diJQwlCaFAM4ZVfhrlOELoMbCxukpXl/pubhtml)
